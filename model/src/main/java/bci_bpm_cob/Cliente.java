@@ -17,10 +17,19 @@ public class Cliente implements java.io.Serializable
 
    static final long serialVersionUID = 1L;
 
-   @org.kie.api.definition.type.Label(value = "Nombre")
+   @org.kie.api.definition.type.Label("Nombre")
    private java.lang.String nombre;
-   @org.kie.api.definition.type.Label(value = "Ejecutivo Comercial")
-   private java.lang.String ejcomercial;
+   @org.kie.api.definition.type.Label("Ejecutivo Comercial")
+   private java.lang.String ejComercial;
+
+   @org.kie.api.definition.type.Label(value = "Perfil Financiero")
+   private java.lang.String perfil;
+
+   @org.kie.api.definition.type.Label(value = "Documentos")
+   private java.util.List<java.lang.String> documentos;
+
+   @org.kie.api.definition.type.Label(value = "Gestion Tipo Documentos")
+   private java.lang.String tipoGestion;
 
    public Cliente()
    {
@@ -36,20 +45,55 @@ public class Cliente implements java.io.Serializable
       this.nombre = nombre;
    }
 
-   public java.lang.String getEjcomercial()
+   public java.lang.String getEjComercial()
    {
-      return this.ejcomercial;
+      return this.ejComercial;
    }
 
-   public void setEjcomercial(java.lang.String ejcomercial)
+   public void setEjComercial(java.lang.String ejComercial)
    {
-      this.ejcomercial = ejcomercial;
+      this.ejComercial = ejComercial;
    }
 
-   public Cliente(java.lang.String nombre, java.lang.String ejcomercial)
+   public java.lang.String getPerfil()
+   {
+      return this.perfil;
+   }
+
+   public void setPerfil(java.lang.String perfil)
+   {
+      this.perfil = perfil;
+   }
+
+   public java.util.List<java.lang.String> getDocumentos()
+   {
+      return this.documentos;
+   }
+
+   public void setDocumentos(java.util.List<java.lang.String> documentos)
+   {
+      this.documentos = documentos;
+   }
+
+   public java.lang.String getTipoGestion()
+   {
+      return this.tipoGestion;
+   }
+
+   public void setTipoGestion(java.lang.String tipoGestion)
+   {
+      this.tipoGestion = tipoGestion;
+   }
+
+   public Cliente(java.lang.String nombre, java.lang.String ejComercial,
+         java.lang.String perfil, java.util.List<java.lang.String> documentos,
+         java.lang.String tipoGestion)
    {
       this.nombre = nombre;
-      this.ejcomercial = ejcomercial;
+      this.ejComercial = ejComercial;
+      this.perfil = perfil;
+      this.documentos = documentos;
+      this.tipoGestion = tipoGestion;
    }
 
 }
