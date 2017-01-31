@@ -1,0 +1,14 @@
+
+<form id="1603003703">
+<property name="name" value="PrCob-EvaluacionCrediticia-VisarResultado-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="visacion" type="CheckBox" id="830784317">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;visacionOut (visacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="visacionOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="visacionOut" value="java.lang.Boolean" id="visacion"/>
+</form>
