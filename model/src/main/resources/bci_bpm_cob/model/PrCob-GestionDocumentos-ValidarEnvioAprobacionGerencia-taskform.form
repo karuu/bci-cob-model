@@ -1,0 +1,14 @@
+
+<form id="951959775">
+<property name="name" value="PrCob-GestionDocumentos-ValidarEnvioAprobacionGerencia-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="enviarAprobacion" type="CheckBox" id="347794577">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;enviarAprobacionOut (enviarAprobacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="enviarAprobacionOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="enviarAprobacionOut" value="java.lang.Boolean" id="enviarAprobacion"/>
+</form>
