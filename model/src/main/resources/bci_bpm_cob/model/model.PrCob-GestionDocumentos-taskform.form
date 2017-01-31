@@ -1,0 +1,86 @@
+
+<form id="1773740103">
+<property name="name" value="model.PrCob-GestionDocumentos-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="3" name="atributosFDA" type="CheckBox" id="1980739199">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;atributosFDA (atributosFDA)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="atributosFDA"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="8" name="resultadoReparado" type="InputText" id="1020283105">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;resultadoReparado (resultadoReparado)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="resultadoReparado"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="accionHabilitar" type="CheckBox" id="1912695603">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;accionHabilitar (accionHabilitar)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="accionHabilitar"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="2" name="accionLegalizar" type="CheckBox" id="781960777">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;accionLegalizar (accionLegalizar)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="accionLegalizar"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="5" name="enviarAprobacion" type="CheckBox" id="1261310171">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;enviarAprobacion (enviarAprobacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="enviarAprobacion"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="6" name="gestionarAprobacion" type="CheckBox" id="279634492">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;gestionarAprobacion (gestionarAprobacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="gestionarAprobacion"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="4" name="clienteHabilitado" type="CheckBox" id="906572549">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;clienteHabilitado (clienteHabilitado)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="clienteHabilitado"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="7" name="requiereLegalizar" type="CheckBox" id="245260944">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;requiereLegalizar (requiereLegalizar)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="requiereLegalizar"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="9" name="resultadoVerificacion" type="InputText" id="1798717224">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;resultadoVerificacion (resultadoVerificacion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="resultadoVerificacion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name="accionFormato" type="CheckBox" id="1780071222">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;accionFormato (accionFormato)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="accionFormato"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="accionFormato" value="java.lang.Boolean" id="accionFormato"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="accionHabilitar" value="java.lang.Boolean" id="accionHabilitar"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="accionLegalizar" value="java.lang.Boolean" id="accionLegalizar"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="atributosFDA" value="java.lang.Boolean" id="atributosFDA"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="clienteHabilitado" value="java.lang.Boolean" id="clienteHabilitado"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="enviarAprobacion" value="java.lang.Boolean" id="enviarAprobacion"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="gestionarAprobacion" value="java.lang.Boolean" id="gestionarAprobacion"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="requiereLegalizar" value="java.lang.Boolean" id="requiereLegalizar"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="resultadoReparado" value="java.lang.String" id="resultadoReparado"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="resultadoVerificacion" value="java.lang.String" id="resultadoVerificacion"/>
+</form>
