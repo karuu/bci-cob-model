@@ -1,0 +1,30 @@
+
+<form id="930196371">
+<property name="name" value="PrCob-OriginacionDocumentos-ValidarFicha-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="2" name="registrarAtribuciones" type="CheckBox" id="1298015660">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;registrarAtribuciones (registrarAtribuciones)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="registrarAtribuciones"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="1" name="ingresarISDA" type="CheckBox" id="210632154">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ingresarISDAOut (ingresarISDA)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="ingresarISDAOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="0" name="fichaInconsistente" type="CheckBox" id="456123699">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fichaInconsistenteOut (fichaInconsistente)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="fichaInconsistenteOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="fichaInconsistenteOut" value="java.lang.Boolean" id="fichaInconsistente"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="ingresarISDAOut" value="java.lang.Boolean" id="ingresarISDA"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="registrarAtribuciones" value="java.lang.Boolean" id="registrarAtribuciones"/>
+</form>
