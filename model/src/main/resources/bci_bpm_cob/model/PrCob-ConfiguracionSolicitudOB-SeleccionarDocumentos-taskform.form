@@ -1,0 +1,38 @@
+
+<form id="1166437191">
+<property name="name" value="PrCob-ConfiguracionSolicitudOB-SeleccionarDocumentos-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="2" name="gestionISDA" type="CheckBox" id="1158274458">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;gestionISDAOut (gestionISDA)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="gestionISDAOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="3" name="gestionReq" type="CheckBox" id="1931809201">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;gestionReqOut (gestionReq)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="gestionReqOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="1" name="gestionAval" type="CheckBox" id="546853936">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;gestionAvalOut (gestionAval)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="gestionAvalOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="0" name="gestion" type="CheckBox" id="1676968445">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;gestionOut (gestion)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="gestionOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="gestionOut" value="java.lang.Boolean" id="gestion"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="gestionAvalOut" value="java.lang.Boolean" id="gestionAval"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="gestionISDAOut" value="java.lang.Boolean" id="gestionISDA"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="gestionReqOut" value="java.lang.Boolean" id="gestionReq"/>
+</form>
