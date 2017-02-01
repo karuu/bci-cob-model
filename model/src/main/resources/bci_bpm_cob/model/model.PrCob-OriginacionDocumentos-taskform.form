@@ -1,0 +1,11 @@
+
+<form id="1910098342">
+<property name="name" value="model.PrCob-OriginacionDocumentos-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="atribucionesValidas" value="java.lang.Boolean" id="atribucionesValidas"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="fichaInconsistente" value="java.lang.Boolean" id="fichaInconsistente"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="ingresarISDA" value="java.lang.Boolean" id="ingresarISDA"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="registrarAtribuciones" value="java.lang.Boolean" id="registrarAtribuciones"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="validacionCorrecta" value="java.lang.Boolean" id="validacionCorrecta"/>
+</form>
