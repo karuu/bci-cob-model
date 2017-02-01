@@ -36,7 +36,7 @@
 <property name="rangeFormula" value="{true,SI;false,NO}"/>
 <property name="isHTML" value="false"/>
 <property name="hideContent" value="false"/>
-<property name="outputBinding" value="registrarAtribucionesOut"/>
+<property name="outputBinding" value="rescatarAtribucionesOut"/>
 <property name="fieldClass" value="java.lang.String"/>
 </field>
 <dataHolder inputId="" name="#E9E371" type="basicType" outId="fichaInconsistenteOut" value="java.lang.Boolean" id="fichaInconsistente"/>
