@@ -3,14 +3,16 @@
 <property name="name" value="model.PrCob-ConfiguracionSolicitudOB-taskform.form"/>
 <property name="displayMode" value="default"/>
 <property name="status" value="0"/>
-<field position="0" name="El cliente se encuentra en el sistema?" type="CustomInput" id="564020889">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;clienteEnSistema (clienteEnSistema)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<field position="0" name="clienteEnSistema " type="CustomInput" id="564020889">
+<property name="fieldRequired" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;El cliente se encuentra en el sistema?quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="readonly" value="false"/>
 <property name="outputBinding" value="clienteEnSistema"/>
 <property name="fieldClass" value="java.lang.Boolean"/>
+<property name="param1" value="Si"/>
+<property name="param2" value="No"/>
 </field>
 <field position="1" name="datosCorrectos" type="CheckBox" id="1291130276">
 <property name="fieldRequired" value="false"/>
