@@ -1,0 +1,14 @@
+
+<form id="1193007745">
+<property name="name" value="PrCob-EvaluacionCrediticia-IngresarIDSolicitudCredAprocred-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="cAprocred" type="CheckBox" id="628659479">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cAprocredOut (cAprocred)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="cAprocredOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="cAprocredOut" value="java.lang.Boolean" id="cAprocred"/>
+</form>
