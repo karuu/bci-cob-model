@@ -1,0 +1,14 @@
+
+<form id="1743476614">
+<property name="name" value="PrCob-ConfiguracionSolicitud-ChequearDatos-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="datosCorrectos" type="CheckBox" id="533415504">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;datosCorrectosOut (datosCorrectos)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="datosCorrectosOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="datosCorrectosOut" value="java.lang.Boolean" id="datosCorrectos"/>
+</form>
