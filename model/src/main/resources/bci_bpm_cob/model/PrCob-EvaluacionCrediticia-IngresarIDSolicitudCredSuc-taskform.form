@@ -1,0 +1,14 @@
+
+<form id="502134380">
+<property name="name" value="PrCob-EvaluacionCrediticia-IngresarIDSolicitudCredSuc-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="cSuc" type="CheckBox" id="244241330">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cSucOut (cSuc)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="cSucOut"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="cSucOut" value="java.lang.Boolean" id="cSuc"/>
+</form>
