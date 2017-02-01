@@ -12,7 +12,7 @@
 <property name="rangeFormula" value="{true,SI;false,NO}"/>
 <property name="isHTML" value="false"/>
 <property name="hideContent" value="false"/>
-<property name="outputBinding" value="datosCorrectos"/>
+<property name="outputBinding" value="datosCorrectosOut"/>
 <property name="fieldClass" value="java.lang.String"/>
 </field>
 <dataHolder inputId="" name="#FF54A7" type="basicType" outId="datosCorrectosOut" value="java.lang.Boolean" id="datosCorrectos"/>
