@@ -3,67 +3,6 @@
 <property name="name" value="model.PrCob-EvaluacionCrediticia-taskform.form"/>
 <property name="displayMode" value="default"/>
 <property name="status" value="0"/>
-<field position="0" name="cAprocred" type="CheckBox" id="1239010848">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;cAprocred (cAprocred)quot;"/>
-<property name="readonly" value="false"/>
-<property name="outputBinding" value="cAprocred"/>
-<property name="fieldClass" value="java.lang.Boolean"/>
-</field>
-<field position="1" name="cSuc" type="CheckBox" id="581411654">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;cSuc (cSuc)quot;"/>
-<property name="readonly" value="false"/>
-<property name="outputBinding" value="cSuc"/>
-<property name="fieldClass" value="java.lang.Boolean"/>
-</field>
-<field position="2" name="estadoSolicitud" type="InputText" id="1672178093">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;estadoSolicitud (estadoSolicitud)quot;"/>
-<property name="readonly" value="false"/>
-<property name="outputBinding" value="estadoSolicitud"/>
-<property name="fieldClass" value="java.lang.String"/>
-</field>
-<field position="3" name="reqEvalRiesgo" type="CheckBox" id="1813047784">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;reqEvalRiesgo (reqEvalRiesgo)quot;"/>
-<property name="readonly" value="false"/>
-<property name="outputBinding" value="reqEvalRiesgo"/>
-<property name="fieldClass" value="java.lang.Boolean"/>
-</field>
-<field position="4" name="resultadoEval" type="CheckBox" id="141682693">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;resultadoEval (resultadoEval)quot;"/>
-<property name="readonly" value="false"/>
-<property name="outputBinding" value="resultadoEval"/>
-<property name="fieldClass" value="java.lang.Boolean"/>
-</field>
-<field position="5" name="tipoCredito" type="InputText" id="1686831125">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;tipoCredito (tipoCredito)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
-<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
-<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
-<property name="readonly" value="false"/>
-<property name="rangeFormula" value="{true,SI;false,NO}"/>
-<property name="isHTML" value="false"/>
-<property name="hideContent" value="false"/>
-<property name="outputBinding" value="tipoCredito"/>
-<property name="fieldClass" value="java.lang.String"/>
-</field>
-<field position="6" name="tipoEval" type="InputText" id="413918618">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;tipoEval (tipoEval)quot;"/>
-<property name="readonly" value="false"/>
-<property name="outputBinding" value="tipoEval"/>
-<property name="fieldClass" value="java.lang.String"/>
-</field>
-<field position="7" name="visacion" type="CheckBox" id="347364840">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;visacion (visacion)quot;"/>
-<property name="readonly" value="false"/>
-<property name="outputBinding" value="visacion"/>
-<property name="fieldClass" value="java.lang.Boolean"/>
-</field>
 <dataHolder inputId="" name="#9BCAFA" type="basicType" outId="cAprocred" value="java.lang.Boolean" id="cAprocred"/>
 <dataHolder inputId="" name="#B29FE4" type="basicType" outId="cSuc" value="java.lang.Boolean" id="cSuc"/>
 <dataHolder inputId="" name="#FBB767" type="basicType" outId="estadoSolicitud" value="java.lang.String" id="estadoSolicitud"/>
