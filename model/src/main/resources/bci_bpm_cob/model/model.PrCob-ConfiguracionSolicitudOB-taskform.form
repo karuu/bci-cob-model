@@ -3,43 +3,46 @@
 <property name="name" value="model.PrCob-ConfiguracionSolicitudOB-taskform.form"/>
 <property name="displayMode" value="default"/>
 <property name="status" value="0"/>
-<field position="0" name="datosCorrectos" type="CheckBox" id="1291130276">
+<field position="1" name="datosCorrectos" type="CheckBox" id="1291130276">
 <property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
 <property name="label" value="quot;enquot;,quot;datosCorrectos (datosCorrectos)quot;"/>
 <property name="readonly" value="false"/>
 <property name="outputBinding" value="datosCorrectos"/>
 <property name="fieldClass" value="java.lang.Boolean"/>
 </field>
-<field position="1" name="gestion" type="CheckBox" id="1112270380">
+<field position="2" name="gestion" type="CheckBox" id="1112270380">
 <property name="fieldRequired" value="false"/>
 <property name="label" value="quot;enquot;,quot;gestion (gestion)quot;"/>
 <property name="readonly" value="false"/>
 <property name="outputBinding" value="gestion"/>
 <property name="fieldClass" value="java.lang.Boolean"/>
 </field>
-<field position="2" name="gestionAval" type="CheckBox" id="336209321">
+<field position="3" name="gestionAval" type="CheckBox" id="336209321">
 <property name="fieldRequired" value="false"/>
 <property name="label" value="quot;enquot;,quot;gestionAval (gestionAval)quot;"/>
 <property name="readonly" value="false"/>
 <property name="outputBinding" value="gestionAval"/>
 <property name="fieldClass" value="java.lang.Boolean"/>
 </field>
-<field position="3" name="gestionISDA" type="CheckBox" id="1274423363">
+<field position="4" name="gestionISDA" type="CheckBox" id="1274423363">
 <property name="fieldRequired" value="false"/>
 <property name="label" value="quot;enquot;,quot;gestionISDA (gestionISDA)quot;"/>
 <property name="readonly" value="false"/>
 <property name="outputBinding" value="gestionISDA"/>
 <property name="fieldClass" value="java.lang.Boolean"/>
 </field>
-<field position="4" name="gestionReq" type="CheckBox" id="2138785574">
+<field position="5" name="gestionReq" type="CheckBox" id="2138785574">
 <property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
 <property name="label" value="quot;enquot;,quot;gestionReq (gestionReq)quot;"/>
 <property name="readonly" value="false"/>
 <property name="outputBinding" value="gestionReq"/>
 <property name="fieldClass" value="java.lang.Boolean"/>
 </field>
-<field position="5" name="clienteEnSistema" type="InputText" id="1850409201">
+<field position="0" name="clienteEnSistema" type="InputText" id="1850409201">
 <property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
 <property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Cliente en sistema?quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
@@ -47,6 +50,31 @@
 <property name="rangeFormula" value="{true,SI;false,NO}"/>
 <property name="isHTML" value="false"/>
 <property name="hideContent" value="false"/>
+<property name="outputBinding" value="clienteEnSistema"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="398365342" type="InputText" id="398365342">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;InputText6quot;"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="1226583334" type="InputText" id="1226583334">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;InputText7quot;"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="2145350738" type="InputText" id="2145350738">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;InputText8quot;"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="473674959" type="InputText" id="473674959">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;InputText9quot;"/>
+<property name="readonly" value="false"/>
 <property name="fieldClass" value="java.lang.String"/>
 </field>
 <dataHolder inputId="" name="#E9E371" type="basicType" outId="clienteEnSistema" value="java.lang.Boolean" id="clienteEnSistema"/>
