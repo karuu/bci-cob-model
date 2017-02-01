@@ -3,20 +3,6 @@
 <property name="name" value="model.PrCob-FormalicacionDocumentos-taskform.form"/>
 <property name="displayMode" value="default"/>
 <property name="status" value="0"/>
-<field position="0" name="clienteConforme" type="CheckBox" id="2109133684">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;clienteConforme (clienteConforme)quot;"/>
-<property name="readonly" value="false"/>
-<property name="outputBinding" value="clienteConforme"/>
-<property name="fieldClass" value="java.lang.Boolean"/>
-</field>
-<field position="1" name="documentosCorrectos" type="CheckBox" id="1006040515">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;documentosCorrectos (documentosCorrectos)quot;"/>
-<property name="readonly" value="false"/>
-<property name="outputBinding" value="documentosCorrectos"/>
-<property name="fieldClass" value="java.lang.Boolean"/>
-</field>
 <dataHolder inputId="" name="#E9E371" type="basicType" outId="clienteConforme" value="java.lang.Boolean" id="clienteConforme"/>
 <dataHolder inputId="" name="#FF54A7" type="basicType" outId="documentosCorrectos" value="java.lang.Boolean" id="documentosCorrectos"/>
 </form>
