@@ -6,7 +6,7 @@
 <dataHolder inputId="" name="#FBB767" type="basicType" outId="accionFormato" value="java.lang.Boolean" id="accionFormato"/>
 <dataHolder inputId="" name="#A7E690" type="basicType" outId="accionHabilitar" value="java.lang.Boolean" id="accionHabilitar"/>
 <dataHolder inputId="" name="#FF8881" type="basicType" outId="accionLegalizar" value="java.lang.Boolean" id="accionLegalizar"/>
-<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="atributosFDA" value="java.lang.Boolean" id="atributosFDA"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="atributosDFAOut" value="java.lang.Boolean" id="atributosDFA"/>
 <dataHolder inputId="" name="#0000A0" type="basicType" outId="clienteHabilitado" value="java.lang.Boolean" id="clienteHabilitado"/>
 <dataHolder inputId="" name="#B29FE4" type="basicType" outId="enviarAprobacion" value="java.lang.Boolean" id="enviarAprobacion"/>
 <dataHolder inputId="" name="#9BCAFA" type="basicType" outId="gestionarAprobacion" value="java.lang.Boolean" id="gestionarAprobacion"/>
