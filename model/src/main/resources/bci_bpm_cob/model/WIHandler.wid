@@ -5,9 +5,8 @@ import org.drools.core.process.core.datatype.impl.type.ObjectDataType;
   [
     "name" : "MyTask", 
     "parameters" : [ 
-        "MyFirstParam" : new StringDataType(), 
-        "MySecondParam" : new StringDataType(), 
-        "MyThirdParam" : new ObjectDataType() 
+        "PrimerParametro" : new StringDataType(), 
+        "SegundoParametro" : new StringDataType()
     ], 
     "results" : [ 
         "Result" : new ObjectDataType("java.util.Map") 
@@ -16,3 +15,5 @@ import org.drools.core.process.core.datatype.impl.type.ObjectDataType;
     "icon" : "" 
   ]
 ]
+
+
