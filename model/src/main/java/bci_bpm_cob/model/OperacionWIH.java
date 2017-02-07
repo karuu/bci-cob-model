@@ -1,5 +1,4 @@
 package bci_bpm_cob.model;
-
 //import org.drools.runtime.process.WorkItem;
 //import org.drools.runtime.process.WorkItemHandler;
 //import org.drools.runtime.process.WorkItemManager;
