@@ -60,14 +60,17 @@ import org.drools.core.process.core.datatype.impl.type.ObjectDataType;
   ,
   
    [
-    "name" : "Result",
+    "name" : "Calculadora",
     "parameters" : [
-     "Message" : new StringDataType(),
-     "From" : new StringDataType(),
-     "To" : new StringDataType(),
-     "Priority" : new StringDataType(),
+     "Variable1" : new StringDataType(),
+     "Variable2" : new StringDataType(),
+     "Operador" : new StringDataType()
     ],
-    "displayName" : "RESULT",
+    "results" : [
+        "Resultado" : new  ObjectDataType(),
+    ],
+    
+    "displayName" : "CALCULADORA",
     "icon" : "defaultservicenodeicon.png"
   ]
 
