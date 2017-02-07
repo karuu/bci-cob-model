@@ -29,7 +29,7 @@ public class CalculadoraWorkItemHandler  implements WorkItemHandler {
         resultado = "HOLA SOY UN RESULTADO DE PRUEBA";
         
         
-        System.out.println("Hola, pasé por el handler";
+        System.out.println("Hola, pasé por el handler");
         // notificar al wI manager
         Map<String, Object> results = new HashMap<String, Object>();
         results.put("resultado", new Integer(10));
