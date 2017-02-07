@@ -56,6 +56,20 @@ import org.drools.core.process.core.datatype.impl.type.ObjectDataType;
     ],
     "displayName" : "REST",
     "icon" : "defaultservicenodeicon.png"
+  ],
+  
+  [
+    "name" : "Calculadora",
+    "parameters" : [
+        "Variable1" : new IntegerDataType(),
+         "Variable2" : new IntegerDataType(),
+         "Operacion" : new IntegerDataType()
+    ],
+    "results" : [
+        "Result" : new ObjectDataType(),
+    ],
+    "displayName" : "CALC",
+    "icon" : "defaultservicenodeicon.png"
   ]
 
 ]
