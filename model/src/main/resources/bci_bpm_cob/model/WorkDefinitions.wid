@@ -59,7 +59,7 @@ import org.drools.core.process.core.datatype.impl.type.ObjectDataType;
   ],
   
   [
-    "name" : "Calculadora",
+    "name" : "CalculadoraWorkItemHandler",
     "parameters" : [
         "Variable1" : new StringDataType(),
          "Variable2" : new StringDataType(),
