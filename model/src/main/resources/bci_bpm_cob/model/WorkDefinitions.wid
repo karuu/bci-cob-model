@@ -62,12 +62,12 @@ import org.drools.core.process.core.datatype.impl.type.ObjectDataType;
    [
     "name" : "Calculadora",
     "parameters" : [
-     "Variable1" : new StringDataType(),
-     "Variable2" : new StringDataType(),
-     "Operador" : new StringDataType()
+     "var1" : new IntegerDataType(),
+     "var2" : new IntegerDataType(),
+     "op" : new StringDataType()
     ],
     "results" : [
-        "Resultado" : new  ObjectDataType(),
+        "resultado" : new  ObjectDataType(),
     ],
     
     "displayName" : "CALCULADORA",
