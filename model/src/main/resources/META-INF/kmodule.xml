@@ -2,7 +2,7 @@
   <kbase name="kbase2" default="true" eventProcessingMode="stream" equalsBehavior="identity">
     <ksession name="ksession2" type="stateless" default="true" clockType="realtime">
       <workItemHandlers>
-        <workItemHandler type="org.jugvale.jbpm.workitemhandler" name="OperacionWIH"/>
+        <workItemHandler type="" name="OperacionWIH"/>
       </workItemHandlers>
     </ksession>
   </kbase>
