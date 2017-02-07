@@ -1,1 +1,9 @@
-<kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <kbase name="kbasetest" default="false" eventProcessingMode="stream" equalsBehavior="identity">
+    <ksession name="ksessiontest" type="stateless" default="true" clockType="realtime">
+      <workItemHandlers>
+        <workItemHandler type="" name="CalculadoraWorkItemHandler"/>
+      </workItemHandlers>
+    </ksession>
+  </kbase>
+</kmodule>
