@@ -1,0 +1,8 @@
+
+<form id="1051311845">
+<property name="name" value="model.PrCob-FormalicacionDocumentos-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="clienteConforme" value="java.lang.Boolean" id="clienteConforme"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="documentosCorrectos" value="java.lang.Boolean" id="documentosCorrectos"/>
+</form>

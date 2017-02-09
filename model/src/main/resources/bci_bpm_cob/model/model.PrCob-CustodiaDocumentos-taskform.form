@@ -1,0 +1,9 @@
+
+<form id="1520335458">
+<property name="name" value="model.PrCob-CustodiaDocumentos-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="custodiaDigital" value="java.lang.Boolean" id="custodiaDigital"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="custodiaFisica" value="java.lang.Boolean" id="custodiaFisica"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="recepcionCorrecta" value="java.lang.Boolean" id="recepcionCorrecta"/>
+</form>

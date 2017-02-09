@@ -1,0 +1,17 @@
+
+<form id="983093695">
+<property name="name" value="model.testing-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="1716876299">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;p&gt;&lt;big&gt;&lt;strong&gt;CALCULADORA&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;  &lt;h3 style=&quot;color:#aaa;font-style:italic;&quot;&gt;Ingrese datos para realizar c&amp;aacute;lculo&lt;/h3&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; quot;quot;dequot;,quot;&lt;p&gt;&lt;big&gt;&lt;strong&gt;CALCULADORA&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;  &lt;h3 style=&quot;color:#aaa;font-style:italic;&quot;&gt;Ingrese datos para realizar c&amp;aacute;lculo&lt;/h3&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; quot;quot;enquot;,quot;&lt;p&gt;&lt;big&gt;&lt;strong&gt;CALCULADORA&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;  &lt;h3 style=&quot;color:#aaa;font-style:italic;&quot;&gt;Ingrese datos para realizar c&amp;aacute;lculo&lt;/h3&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; quot;quot;esquot;,quot;&lt;p&gt;&lt;big&gt;&lt;strong&gt;CALCULADORA&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;  &lt;h3 style=&quot;color:#aaa;font-style:italic;&quot;&gt;Ingrese datos para realizar c&amp;aacute;lculo&lt;/h3&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; quot;quot;frquot;,quot;&lt;p&gt;&lt;big&gt;&lt;strong&gt;CALCULADORA&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;  &lt;h3 style=&quot;color:#aaa;font-style:italic;&quot;&gt;Ingrese datos para realizar c&amp;aacute;lculo&lt;/h3&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; quot;quot;jaquot;,quot;&lt;p&gt;&lt;big&gt;&lt;strong&gt;CALCULADORA&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;  &lt;h3 style=&quot;color:#aaa;font-style:italic;&quot;&gt;Ingrese datos para realizar c&amp;aacute;lculo&lt;/h3&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; quot;quot;ptquot;,quot;&lt;p&gt;&lt;big&gt;&lt;strong&gt;CALCULADORA&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;  &lt;h3 style=&quot;color:#aaa;font-style:italic;&quot;&gt;Ingrese datos para realizar c&amp;aacute;lculo&lt;/h3&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; quot;quot;zhquot;,quot;&lt;p&gt;&lt;big&gt;&lt;strong&gt;CALCULADORA&lt;/strong&gt;&lt;/big&gt;&lt;/p&gt;  &lt;h3 style=&quot;color:#aaa;font-style:italic;&quot;&gt;Ingrese datos para realizar c&amp;aacute;lculo&lt;/h3&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="OP" value="java.lang.String" id="OP"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="RESULTADO" value="java.lang.String" id="RESULTADO"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="VAR1" value="java.lang.Integer" id="VAR1"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="VAR2" value="java.lang.Integer" id="VAR2"/>
+</form>
