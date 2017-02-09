@@ -34,12 +34,6 @@
             <parameters/>
             <name>Rest</name>
         </work-item-handler>
-        <work-item-handler>
-            <resolver>mvel</resolver>
-            <identifier>new com.sample.WorkItemHandler()</identifier>
-            <parameters/>
-            <name>CalculadoraWorkItemHandler</name>
-        </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
     <configurations/>
